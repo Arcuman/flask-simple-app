@@ -5,3 +5,4 @@ flask db init <--- init database
 flask db migrate <--- generate migration 
 
 flask db upgrade
+
